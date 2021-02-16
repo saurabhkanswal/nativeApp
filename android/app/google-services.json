@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817446471289",
+    "project_id": "instatest-e7e7b",
+    "storage_bucket": "instatest-e7e7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817446471289:android:3dde0935f1c172bcf8b6a8",
+        "android_client_info": {
+          "package_name": "com.nativeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817446471289-ikffq9m1a3e86ssgtn84f2l29rkrpsth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAgv5r_1SRvOi5TaPBT4zBTErlnYcYeKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817446471289-ikffq9m1a3e86ssgtn84f2l29rkrpsth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
